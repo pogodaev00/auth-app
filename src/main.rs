@@ -78,7 +78,7 @@ async fn register(
             { "User crated" }
         },
         Ok(_) => {
-            "A user with this email already exists."
+            "A user with this email  already exists."
         }
     };
 
